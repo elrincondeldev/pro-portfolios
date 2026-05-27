@@ -29,10 +29,10 @@ export default function App() {
       {/* Header */}
       <header className="px-4 md:px-8 pt-10 pb-6">
         <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-[#111]">
-          Pro Portfolios
+          Top Portfolios
         </h1>
         <p className="text-[#999] text-sm mt-1.5">
-          {total} designers from the world's best companies
+          Discover {total} portfolios at top tech companies.
         </p>
       </header>
 

@@ -30,16 +30,6 @@
     ]
   },
   {
-    "owner_name": "Johny Vino",
-    "owner_role": "Senior Product Designer",
-    "company": "Apple",
-    "link": "https://johnyvino.com",
-    "showcase_video": null,
-    "showcase_images": [
-      "https://rxycovhqjpnotuntfhqc.supabase.co/storage/v1/object/public/portfolio-screenshots/johny-vino.webp"
-    ]
-  },
-  {
     "owner_name": "Charlie Deets",
     "owner_role": "Product Designer",
     "company": "Apple",
@@ -135,9 +125,7 @@
     "company": "Meta",
     "link": "https://abhishk.me",
     "showcase_video": null,
-    "showcase_images": [
-      "/screenshots/abhishk.png"
-    ]
+    "showcase_images": ["/screenshots/abhishk.png"]
   },
   {
     "owner_name": "Graham Young",
@@ -195,9 +183,7 @@
     "company": "Meta",
     "link": "https://www.siddhant.ca",
     "showcase_video": null,
-    "showcase_images": [
-      "https://siddhantmehta.com/og-image.png"
-    ]
+    "showcase_images": ["https://siddhantmehta.com/og-image.png"]
   },
   {
     "owner_name": "Matthew Mang",
@@ -225,9 +211,7 @@
     "company": "Meta",
     "link": "https://marcelodavanzo.com",
     "showcase_video": null,
-    "showcase_images": [
-      "/screenshots/marcelodavanzo.png"
-    ]
+    "showcase_images": ["/screenshots/marcelodavanzo.png"]
   },
   {
     "owner_name": "Matt Pakes",
@@ -375,9 +359,7 @@
     "company": "Google",
     "link": "https://joshcarpenter.design",
     "showcase_video": null,
-    "showcase_images": [
-      "/screenshots/joshcarpenter.png"
-    ]
+    "showcase_images": ["/screenshots/joshcarpenter.png"]
   },
   {
     "owner_name": "Anna Chou",
@@ -485,9 +467,7 @@
     "company": "Amazon",
     "link": "https://www.arisatsuji.com",
     "showcase_video": null,
-    "showcase_images": [
-      "/screenshots/arisatsuji.png"
-    ]
+    "showcase_images": ["/screenshots/arisatsuji.png"]
   },
   {
     "owner_name": "Jamil Lazarev",
@@ -515,9 +495,7 @@
     "company": "Netflix",
     "link": "http://brmayes.com",
     "showcase_video": null,
-    "showcase_images": [
-      "https://brmayes.github.io/images/social-brm.png"
-    ]
+    "showcase_images": ["https://brmayes.github.io/images/social-brm.png"]
   },
   {
     "owner_name": "Derek P. Collins",
@@ -535,9 +513,7 @@
     "company": "Netflix",
     "link": "https://boucksy.com",
     "showcase_video": null,
-    "showcase_images": [
-      "https://boucksy.com/favicon.svg"
-    ]
+    "showcase_images": ["https://boucksy.com/favicon.svg"]
   },
   {
     "owner_name": "David Fusilier",
@@ -755,9 +731,7 @@
     "company": "Microsoft",
     "link": "https://www.floramaydc.com",
     "showcase_video": null,
-    "showcase_images": [
-      "https://www.floramaydc.com/og-default.png"
-    ]
+    "showcase_images": ["https://www.floramaydc.com/og-default.png"]
   },
   {
     "owner_name": "Meo Zhang",
@@ -1045,9 +1019,7 @@
     "company": "Notion",
     "link": "https://jinsupark.com",
     "showcase_video": null,
-    "showcase_images": [
-      "/screenshots/jinsupark.png"
-    ]
+    "showcase_images": ["/screenshots/jinsupark.png"]
   },
   {
     "owner_name": "Pratyush Sarangi",
