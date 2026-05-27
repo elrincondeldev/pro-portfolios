@@ -4,6 +4,7 @@ import { CompanyNav } from "./components/CompanyNav";
 import { DesignerGrid } from "./components/DesignerGrid";
 import { PortfolioModal } from "./components/PortfolioModal";
 import type { Portfolio } from "./types";
+import Footer from "./components/Footer";
 
 export default function App() {
   const [selectedCompany, setSelectedCompany] = useState("All");
@@ -26,7 +27,6 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-[#f7f7f7] text-[#111]">
-      {/* Header */}
       <header className="px-4 md:px-8 pt-10 pb-6">
         <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-[#111]">
           Top Portfolios
@@ -36,7 +36,6 @@ export default function App() {
         </p>
       </header>
 
-      {/* Company Nav */}
       <div className="sticky top-0 bg-[#f7f7f7]/90 backdrop-blur-sm py-3 z-10 mb-8">
         <CompanyNav
           companies={companies}
@@ -46,17 +45,11 @@ export default function App() {
         />
       </div>
 
-      {/* Grid */}
-      <DesignerGrid
-        portfolios={portfolios}
-        onOpen={handleOpen}
-      />
+      <DesignerGrid portfolios={portfolios} onOpen={handleOpen} />
 
-      {/* Modal */}
-      <PortfolioModal
-        portfolio={openPortfolio}
-        onClose={handleClose}
-      />
+      <Footer />
+
+      <PortfolioModal portfolio={openPortfolio} onClose={handleClose} />
     </div>
   );
 }
